@@ -27,10 +27,6 @@ header {
     margin-right: 100px;
 }
 
-.top-header ul li {
- 
-}
-
 .lower-header {
     display: flex;
     justify-content: space-between;
